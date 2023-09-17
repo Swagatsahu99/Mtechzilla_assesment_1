@@ -17,3 +17,4 @@ This project was Created with [Create React App](https://github.com/facebook/cre
 - The second button is a toggle button; the button gets toggled between start and stop.
 
 #Logout
+A logout button is there on the top left corner; clicking on it will redirect you to the login page.
